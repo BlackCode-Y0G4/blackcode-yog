@@ -24,3 +24,16 @@ Then open `http://127.0.0.1:8768/`.
 ## Deploy Target
 
 Tencent CloudBase static hosting should publish the contents of `rebuild/` as the site root.
+
+## Live Deployment
+
+- GitHub: https://github.com/BlackCode-Y0G4/blackcode-yog
+- CloudBase environment: `blackcode-website-d3d7lu257ecebb`
+- CloudBase URL: https://blackcode-website-d3d7lu257ecebb-1449021949.tcloudbaseapp.com
+
+Manual deploy command:
+
+```powershell
+$env:Path="C:\Users\yoga\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;C:\Users\yoga\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin;$env:Path"
+pnpm --package=@cloudbase/cli dlx tcb hosting deploy "rebuild" "/" -e blackcode-website-d3d7lu257ecebb
+```
