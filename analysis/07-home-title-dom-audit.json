@@ -1,0 +1,80 @@
+{
+  "mirror": {
+    "all": [
+      {
+        "cls": "",
+        "html": "<div id=\"root\"><div class=\"_background_1i2u2_218\"><svg viewBox=\"0 0 1440 1440\" preserveAspectRatio=\"xMinYMin slice\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke-width=\"1\"><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720.5 360.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: 474.191px, 166.353px;\"></line><line x1=\"720.5\" y1=\"720.",
+        "style": {
+          "fontSize": "12px",
+          "height": "720px",
+          "letterSpacing": "normal",
+          "lineHeight": "12px",
+          "transform": "none",
+          "width": "1280px"
+        },
+        "tag": "DIV",
+        "text": "GETTINGUTMLKSREExamplesAboutSAVEEInstagram"
+      },
+      {
+        "cls": "_wrapper_xjrq7_218",
+        "html": "<div class=\"_wrapper_xjrq7_218\"><p class=\"_eyebrow_xjrq7_275 u-text-center u-b0\">GETTING</p><h1 class=\"_title_xjrq7_244 u-a2 u-text-center u-fw-400\" style=\"translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0px) scale(0.9694, 0.9694);\"><div style=\"position:relative;display:inline-block;\" data-char=\"R\" data-max-iterations=\"79\">U</div><div style=\"position:relative;display:inline-block;\" data-char=\"E\" data-max-iterations=\"71\">T</div><div style=\"position:relative;display:in",
+        "style": {
+          "fontSize": "12px",
+          "height": "720px",
+          "letterSpacing": "normal",
+          "lineHeight": "12px",
+          "transform": "none",
+          "width": "1280px"
+        },
+        "tag": "DIV",
+        "text": "GETTINGUTMLKSRE"
+      }
+    ],
+    "title": {
+      "cls": "_title_xjrq7_244 u-a2 u-text-center u-fw-400",
+      "html": "<h1 class=\"_title_xjrq7_244 u-a2 u-text-center u-fw-400\" style=\"translate: none; rotate: none; scale: none; transform: translate3d(0px, 0px, 0px) scale(0.9694, 0.9694);\"><div style=\"position:relative;display:inline-block;\" data-char=\"R\" data-max-iterations=\"79\">U</div><div style=\"position:relative;display:inline-block;\" data-char=\"E\" data-max-iterations=\"71\">T</div><div style=\"position:relative;display:inline-block;\" data-char=\"F\" data-max-iterations=\"56\">M</div><div style=\"position:relative;display:inline-block;\" data-char=\"R\" data-max-iterations=\"56\">L</div><div style=\"position:relative;display:inline-block;\" data-char=\"A\" data-max-iterations=\"65\">K</div><div style=\"position:relative;display:inline-block;\" data-char=\"M\" data-max-iterations=\"68\">S</div><div style=\"position:relative;display:inline-block;\" data-char=\"E\" data-max-iterations=\"59\">R</div><div style=\"position:relative;display:inline-block;\" data-char=\"D\" data-max-iterations=\"60\">E</div></h1>",
+      "style": {
+        "fontSize": "156.5px",
+        "height": "250.396px",
+        "letterSpacing": "normal",
+        "lineHeight": "125.2px",
+        "transform": "matrix(0.9694, 0, 0, 0.9694, 0, 0)",
+        "width": "790px"
+      },
+      "tag": "H1",
+      "text": "UTMLKSRE"
+    }
+  },
+  "local": {
+    "all": [
+      {
+        "cls": "",
+        "html": "<div id=\"app\"><main class=\"home page\"><div class=\"ambient production-ambient \"><div class=\"_background_1i2u2_218\"><svg viewBox=\"0 0 1440 1440\" preserveAspectRatio=\"xMinYMin slice\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke-width=\"1\"><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720.5 360.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-da",
+        "style": {
+          "fontSize": "12px",
+          "height": "720px",
+          "letterSpacing": "normal",
+          "lineHeight": "normal",
+          "transform": "none",
+          "width": "1280px"
+        },
+        "tag": "DIV",
+        "text": "GETTINGREAKGMCMExamplesAboutSAVEEInstagram"
+      }
+    ],
+    "title": {
+      "cls": "hero-title",
+      "html": "<h1 class=\"hero-title\"><span class=\"char\" data-char=\"R\">R</span><span class=\"char\" data-char=\"E\">E</span><span class=\"char\" data-char=\"F\">A</span><span class=\"char\" data-char=\"R\">K</span><br><span class=\"char\" data-char=\"A\">G</span><span class=\"char\" data-char=\"M\">M</span><span class=\"char\" data-char=\"E\">C</span><span class=\"char\" data-char=\"D\">M</span></h1>",
+      "style": {
+        "fontSize": "156.5px",
+        "height": "250.396px",
+        "letterSpacing": "normal",
+        "lineHeight": "125.2px",
+        "transform": "matrix(0.984474, 0, 0, 0.984474, 0, 0)",
+        "width": "790px"
+      },
+      "tag": "H1",
+      "text": "REAKGMCM"
+    }
+  }
+}

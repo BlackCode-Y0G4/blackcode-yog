@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-06-30T05:40:00.429Z",
+  "waitMs": 4200,
+  "mirror": {
+    "rect": {
+      "h": 250.396,
+      "w": 790,
+      "x": 245,
+      "y": 250.135
+    },
+    "style": {
+      "fontSize": "156.5px",
+      "height": "250.396px",
+      "lineHeight": "125.2px",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "width": "790px"
+    },
+    "text": "REFRAMED"
+  },
+  "local": {
+    "rect": {
+      "h": 250.396,
+      "w": 790,
+      "x": 245,
+      "y": 250.396
+    },
+    "style": {
+      "fontSize": "156.5px",
+      "height": "250.396px",
+      "lineHeight": "125.2px",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "width": "790px"
+    },
+    "text": "REFRAMED"
+  }
+}

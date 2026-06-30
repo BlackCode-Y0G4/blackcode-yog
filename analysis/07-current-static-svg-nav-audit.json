@@ -1,0 +1,527 @@
+{
+  "timestamp": "2026-06-30T05:38:01.217Z",
+  "home": {
+    "mirror": {
+      "barcode": {
+        "exists": true,
+        "rect": {
+          "h": 35.813,
+          "w": 192.99,
+          "x": 543.505,
+          "y": 694.188
+        },
+        "outerHash": "bf15ca7cd627febe",
+        "outerLength": 22018
+      },
+      "bg": {
+        "exists": true,
+        "rect": {
+          "h": 1280,
+          "w": 1280,
+          "x": 0,
+          "y": -280
+        },
+        "outerHash": "4c8b92846810313a",
+        "outerLength": 2210
+      },
+      "bodyClass": "",
+      "close": null,
+      "nav": [
+        {
+          "href": "/examples/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "Examples",
+          "viewBox": null
+        },
+        {
+          "href": "/about/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "About",
+          "viewBox": null
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 156.135,
+            "y": 630
+          },
+          "text": "SAVEE",
+          "viewBox": "0 0 9 9"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 615
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 1156,
+            "y": 630
+          },
+          "text": "Instagram",
+          "viewBox": "0 0 9 9"
+        }
+      ],
+      "stars": {
+        "count": 2,
+        "rects": [
+          {
+            "h": 45,
+            "w": 45,
+            "x": 112,
+            "y": 336.5
+          },
+          {
+            "h": 45,
+            "w": 45,
+            "x": 1123,
+            "y": 336.5
+          }
+        ],
+        "outerHashes": [
+          "cc257ee8eadefa01",
+          "cc257ee8eadefa01"
+        ]
+      },
+      "title": {
+        "font": "Unhuman, sans-serif",
+        "fontSize": "156.5px",
+        "rect": {
+          "h": 241.983,
+          "w": 763.456,
+          "x": 258.272,
+          "y": 254.342
+        },
+        "text": "CIKFEPXN"
+      },
+      "url": "http://127.0.0.1:8769/"
+    },
+    "local": {
+      "barcode": {
+        "exists": true,
+        "rect": {
+          "h": 35.813,
+          "w": 192.99,
+          "x": 543.505,
+          "y": 694.188
+        },
+        "outerHash": "06243a4368993111",
+        "outerLength": 21855
+      },
+      "bg": {
+        "exists": true,
+        "rect": {
+          "h": 1280,
+          "w": 1280,
+          "x": 0,
+          "y": -280
+        },
+        "outerHash": "2c69c140269f936c",
+        "outerLength": 2158
+      },
+      "bodyClass": "",
+      "close": null,
+      "nav": [
+        {
+          "href": "/examples/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "Examples",
+          "viewBox": null
+        },
+        {
+          "href": "/about/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61.003
+          },
+          "svgRect": null,
+          "text": "About",
+          "viewBox": null
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615.023
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 156.135,
+            "y": 630.023
+          },
+          "text": "SAVEE",
+          "viewBox": "0 0 9 9"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 615.082
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 1156,
+            "y": 630.082
+          },
+          "text": "Instagram",
+          "viewBox": "0 0 9 9"
+        }
+      ],
+      "stars": {
+        "count": 2,
+        "rects": [
+          {
+            "h": 45,
+            "w": 45,
+            "x": 112,
+            "y": 335.833
+          },
+          {
+            "h": 45,
+            "w": 45,
+            "x": 1123,
+            "y": 335.833
+          }
+        ],
+        "outerHashes": [
+          "e7d5ea3890b9c827",
+          "e7d5ea3890b9c827"
+        ]
+      },
+      "title": {
+        "font": "Unhuman, sans-serif",
+        "fontSize": "156.5px",
+        "rect": {
+          "h": 246.356,
+          "w": 777.253,
+          "x": 251.374,
+          "y": 252.416
+        },
+        "text": "RELSIRIF"
+      },
+      "url": "http://127.0.0.1:8768/"
+    }
+  },
+  "examples": {
+    "mirror": {
+      "barcode": {
+        "exists": true,
+        "rect": {
+          "h": 35.813,
+          "w": 192.99,
+          "x": 543.505,
+          "y": 694.188
+        },
+        "outerHash": "a36d43c3e290a7cb",
+        "outerLength": 12260
+      },
+      "bg": {
+        "exists": true,
+        "rect": {
+          "h": 1280,
+          "w": 1280,
+          "x": 0,
+          "y": -280
+        },
+        "outerHash": "53b2550249e93ec7",
+        "outerLength": 794
+      },
+      "bodyClass": "",
+      "close": {
+        "href": "/",
+        "pathD": "M9 0H0V9H9V0ZM2.73829 4.26017L4.06813 2.93033L3.72872 2.59092L1.81953 4.50011L3.72872 6.4093L4.06813 6.06989L2.73841 4.74017H6.89961V4.26017H2.73829Z",
+        "rect": {
+          "h": 48,
+          "w": 46,
+          "x": 617,
+          "y": 61
+        },
+        "svgRect": {
+          "h": 16,
+          "w": 16,
+          "x": 632,
+          "y": 76
+        },
+        "viewBox": "0 0 9 9"
+      },
+      "nav": [
+        {
+          "href": "/examples/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "Examples",
+          "viewBox": null
+        },
+        {
+          "href": "/about/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "About",
+          "viewBox": null
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 156.135,
+            "y": 630
+          },
+          "text": "SAVEE",
+          "viewBox": "0 0 9 9"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 615
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 1156,
+            "y": 630
+          },
+          "text": "Instagram",
+          "viewBox": "0 0 9 9"
+        }
+      ],
+      "stars": {
+        "count": 2,
+        "rects": [
+          {
+            "h": 45,
+            "w": 45,
+            "x": 112,
+            "y": 336.5
+          },
+          {
+            "h": 45,
+            "w": 45,
+            "x": 1123,
+            "y": 336.5
+          }
+        ],
+        "outerHashes": [
+          "8f0d2e0f5f27ceb5",
+          "8f0d2e0f5f27ceb5"
+        ]
+      },
+      "title": null,
+      "url": "http://127.0.0.1:8769/examples/"
+    },
+    "local": {
+      "barcode": {
+        "exists": true,
+        "rect": {
+          "h": 35.813,
+          "w": 192.99,
+          "x": 543.505,
+          "y": 694.188
+        },
+        "outerHash": "06243a4368993111",
+        "outerLength": 21855
+      },
+      "bg": {
+        "exists": true,
+        "rect": {
+          "h": 1280,
+          "w": 1280,
+          "x": 0,
+          "y": -280
+        },
+        "outerHash": "2c69c140269f936c",
+        "outerLength": 2158
+      },
+      "bodyClass": "",
+      "close": {
+        "href": "/",
+        "pathD": "M9 0H0V9H9V0ZM2.73829 4.26017L4.06813 2.93033L3.72872 2.59092L1.81953 4.50011L3.72872 6.4093L4.06813 6.06989L2.73841 4.74017H6.89961V4.26017H2.73829Z",
+        "rect": {
+          "h": 46,
+          "w": 46,
+          "x": 617,
+          "y": 61
+        },
+        "svgRect": {
+          "h": 16,
+          "w": 16,
+          "x": 632,
+          "y": 76
+        },
+        "viewBox": "0 0 9 9"
+      },
+      "nav": [
+        {
+          "href": "/examples/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "svgRect": null,
+          "text": "Examples",
+          "viewBox": null
+        },
+        {
+          "href": "/about/",
+          "lineHeight": "12px",
+          "pathD": null,
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61.002
+          },
+          "svgRect": null,
+          "text": "About",
+          "viewBox": null
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615.015
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 156.135,
+            "y": 630.015
+          },
+          "text": "SAVEE",
+          "viewBox": "0 0 9 9"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "lineHeight": "12px",
+          "pathD": "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 615.06
+          },
+          "svgRect": {
+            "h": 12,
+            "w": 12,
+            "x": 1156,
+            "y": 630.06
+          },
+          "text": "Instagram",
+          "viewBox": "0 0 9 9"
+        }
+      ],
+      "stars": {
+        "count": 2,
+        "rects": [
+          {
+            "h": 45,
+            "w": 45,
+            "x": 112,
+            "y": 335.833
+          },
+          {
+            "h": 45,
+            "w": 45,
+            "x": 1123,
+            "y": 335.833
+          }
+        ],
+        "outerHashes": [
+          "e7d5ea3890b9c827",
+          "e7d5ea3890b9c827"
+        ]
+      },
+      "title": null,
+      "url": "http://127.0.0.1:8768/examples/"
+    }
+  }
+}

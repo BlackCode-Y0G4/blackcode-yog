@@ -1,0 +1,1476 @@
+{
+  "timestamp": "2026-06-30T05:41:01.957Z",
+  "top": {
+    "mirror": {
+      "bodyClass": "",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(255, 255, 255, 0.8)",
+          "cls": "_glass_3fpva_218 _blur_3fpva_227 _color_3fpva_223",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": 576
+          }
+        },
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": 1502
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": 701.924
+          },
+          "visible": true
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": 822.211
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": 884.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": 884.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": 992.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": 1266.167
+          },
+          "visible": false
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 1250.281
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 2222
+          },
+          "visible": false
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 2287.406
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 2530.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 2530.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 2569.552
+          },
+          "visible": false
+        }
+      ],
+      "nav": [
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 0,
+      "subtitle": null,
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 54.424,
+          "w": 810.488,
+          "x": 227.089,
+          "y": 311.455
+        },
+        "text": "INSPO"
+      },
+      "url": "http://127.0.0.1:8769/examples/monoform/"
+    },
+    "local": {
+      "bodyClass": "",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(255, 255, 255, 0.8)",
+          "cls": "detail-glass detail-glass-inspo",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "detail-glass detail-glass-output",
+          "opacity": "0",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "image-grid inspiration",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": 576
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": 576
+          }
+        },
+        {
+          "cls": "image-grid output",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": 1502
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": 2222
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": 700.507
+          },
+          "visible": true
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": 822.04
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": 884.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": 884.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": 992.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": 1266.167
+          },
+          "visible": false
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 1250.281
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 2222
+          },
+          "visible": false
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 2287.406
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 2530.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 2530.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 2569.552
+          },
+          "visible": false
+        }
+      ],
+      "nav": [
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 0,
+      "subtitle": {
+        "opacity": "1",
+        "rect": {
+          "h": 26.396,
+          "w": 184,
+          "x": 540.333,
+          "y": 386.333
+        },
+        "text": "References that help build vision"
+      },
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 307.271
+        },
+        "text": "INSPO"
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  },
+  "scroll900": {
+    "mirror": {
+      "bodyClass": "",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(255, 255, 255, 0.8)",
+          "cls": "_glass_3fpva_218 _blur_3fpva_227 _color_3fpva_223",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": -324
+          }
+        },
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": 602
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": -323.718
+          },
+          "visible": false
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": -242.963
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": -14.815
+          },
+          "visible": true
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": -14.791
+          },
+          "visible": true
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": 92.742
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": 382.092
+          },
+          "visible": true
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 370.921
+          },
+          "visible": true
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 1322
+          },
+          "visible": false
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 1387.406
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 1630.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 1630.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 1669.552
+          },
+          "visible": false
+        }
+      ],
+      "nav": [
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 900,
+      "subtitle": null,
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 54.694,
+          "w": 814.506,
+          "x": 225.08,
+          "y": 311.32
+        },
+        "text": "INSPO"
+      },
+      "url": "http://127.0.0.1:8769/examples/monoform/"
+    },
+    "local": {
+      "bodyClass": "",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(255, 255, 255, 0.8)",
+          "cls": "detail-glass detail-glass-inspo",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "detail-glass detail-glass-output",
+          "opacity": "0",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "image-grid inspiration",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": -324
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": -324
+          }
+        },
+        {
+          "cls": "image-grid output",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": 602
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": 1322
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": -324
+          },
+          "visible": false
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": -243.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": -15.333
+          },
+          "visible": true
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": -15.333
+          },
+          "visible": true
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": 92.333
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": 366.167
+          },
+          "visible": true
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 350.281
+          },
+          "visible": true
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 1322
+          },
+          "visible": false
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 1387.406
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 1630.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 1630.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 1669.552
+          },
+          "visible": false
+        }
+      ],
+      "nav": [
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 900,
+      "subtitle": {
+        "opacity": "1",
+        "rect": {
+          "h": 26.396,
+          "w": 184,
+          "x": 540.333,
+          "y": 386.333
+        },
+        "text": "References that help build vision"
+      },
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 307.271
+        },
+        "text": "INSPO"
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  },
+  "scroll2200": {
+    "mirror": {
+      "bodyClass": "is-dark",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "_glass_3fpva_218 _blur_3fpva_227",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": -1624
+          }
+        },
+        {
+          "cls": "_grid_1pwsa_305",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": -698
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": -1623.712
+          },
+          "visible": false
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": -1542.955
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": -1314.805
+          },
+          "visible": false
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": -1314.779
+          },
+          "visible": false
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": -1207.25
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": -933.503
+          },
+          "visible": false
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": -949.316
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 22.732
+          },
+          "visible": true
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 87.77
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 358.83
+          },
+          "visible": true
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 383.577
+          },
+          "visible": true
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 406.517
+          },
+          "visible": true
+        }
+      ],
+      "nav": [
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "none",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 2200,
+      "subtitle": null,
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 53.163,
+          "w": 791.71,
+          "x": 236.478,
+          "y": 318.085
+        },
+        "text": "OTTPUT"
+      },
+      "url": "http://127.0.0.1:8769/examples/monoform/"
+    },
+    "local": {
+      "bodyClass": "is-dark",
+      "close": {
+        "href": "/examples/",
+        "pathD": null,
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        }
+      },
+      "glass": [
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(255, 255, 255, 0.8)",
+          "cls": "detail-glass detail-glass-inspo",
+          "opacity": "0",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "backdrop": "blur(3px)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "cls": "detail-glass detail-glass-output",
+          "opacity": "1",
+          "rect": {
+            "h": 720,
+            "w": 1264.667,
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "grids": [
+        {
+          "cls": "image-grid inspiration",
+          "rect": {
+            "h": 926,
+            "w": 1264.667,
+            "x": 0,
+            "y": -1624
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": -1624
+          }
+        },
+        {
+          "cls": "image-grid output",
+          "rect": {
+            "h": 1646,
+            "w": 1264.667,
+            "x": 0,
+            "y": -698
+          }
+        },
+        {
+          "cls": "grid",
+          "rect": {
+            "h": 907.333,
+            "w": 1227.333,
+            "x": 18.667,
+            "y": 22
+          }
+        }
+      ],
+      "imgs": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": -1624
+          },
+          "visible": false
+        },
+        {
+          "alt": "Background + vibrant object combo",
+          "rect": {
+            "h": 174,
+            "w": 219,
+            "x": 777.792,
+            "y": -1543.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Interesting spec sheet layout",
+          "rect": {
+            "h": 196,
+            "w": 161,
+            "x": 88.198,
+            "y": -1315.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Object layering",
+          "rect": {
+            "h": 219,
+            "w": 154,
+            "x": 517.063,
+            "y": -1315.333
+          },
+          "visible": false
+        },
+        {
+          "alt": "Splash of color",
+          "rect": {
+            "h": 159,
+            "w": 160,
+            "x": 1015.458,
+            "y": -1207.667
+          },
+          "visible": false
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 121,
+            "w": 194,
+            "x": 304.396,
+            "y": -933.833
+          },
+          "visible": false
+        },
+        {
+          "alt": "Technical typography",
+          "rect": {
+            "h": 152.771,
+            "w": 230.531,
+            "x": 766.26,
+            "y": -949.719
+          },
+          "visible": false
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 22
+          },
+          "visible": true
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 87.406
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 330.667
+          },
+          "visible": true
+        },
+        {
+          "alt": "Vibrant object",
+          "rect": {
+            "h": 265,
+            "w": 122,
+            "x": 571.323,
+            "y": 330.667
+          },
+          "visible": true
+        },
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 188.885,
+            "w": 230.531,
+            "x": 1015.458,
+            "y": 369.552
+          },
+          "visible": true
+        }
+      ],
+      "nav": [
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1096.323,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "filter": "blur(0px)",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1050.219,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "scrollY": 2200,
+      "subtitle": {
+        "opacity": "1",
+        "rect": {
+          "h": 13.198,
+          "w": 184,
+          "x": 540.333,
+          "y": 392.932
+        },
+        "text": "Created concept"
+      },
+      "title": {
+        "filter": "none",
+        "opacity": "1",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 313.87
+        },
+        "text": "OUTPUT"
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  }
+}

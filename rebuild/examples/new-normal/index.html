@@ -3,15 +3,74 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Reframed — Digital inspiration Lab</title>
-  <meta name="description" content="Recovered local build of Reframed.online" />
-  <link rel="stylesheet" href="/styles.css" />
+  <title>BLACKCODE.YOG</title>
+  <meta name="description" content="BLACKCODE.YOG personal website" />
+  <link rel="stylesheet" href="/styles.css?v=blackcode-20260701-comment7" />
 </head>
 <body>
   <div class="noise" aria-hidden="true"></div>
-  <div id="app"></div>
-  <script src="/site-data.js"></script>
-  <script src="/production-fragments.js"></script>
-  <script src="/app.js"></script>
+  <aside class="meny-sidebar" id="site-menu" aria-hidden="true">
+    <p class="meny-kicker">WELCOME</p>
+    <h2>黑色代码</h2>
+    <nav class="meny-links" aria-label="Sidebar navigation">
+      <a href="/">Home</a>
+      <a href="/collection/">Collection</a>
+      <a href="/about/">About</a>
+      <a href="https://space.bilibili.com/455053504" target="_blank" rel="noopener noreferrer">BILIBILI</a>
+      <a href="https://steamcommunity.com/id/YOGA2006/" target="_blank" rel="noopener noreferrer">STEAM</a>
+    </nav>
+    <section class="comment-widget" id="comment-widget" aria-label="Comment area">
+      <button class="comment-toggle" type="button" aria-expanded="false">COMMENT</button>
+      <div class="comment-panel" hidden>
+        <div class="comment-head">
+          <p class="comment-kicker">BLACKCODE LOG</p>
+          <button class="comment-admin-toggle" type="button">YOG模式</button>
+        </div>
+        <div class="comment-admin" hidden>
+          <input class="comment-admin-password" type="password" autocomplete="off" placeholder="输入管理员密码" />
+          <button class="comment-admin-login" type="button">进入</button>
+        </div>
+        <div class="comment-notice" hidden></div>
+        <p class="comment-status" role="status"></p>
+        <button class="comment-compose-toggle" type="button" aria-expanded="false">WRITE COMMENT</button>
+        <div class="comment-compose" hidden>
+          <div class="comment-nickname"></div>
+          <textarea class="comment-input" maxlength="400" rows="4" placeholder="每天最多发送10条，每条限制400字。请勿发送违法违规内容，禁止图片。"></textarea>
+          <div class="comment-options">
+            <label><input class="comment-anon" type="checkbox" checked /> 匿名发送</label>
+            <span class="comment-count">0/400</span>
+          </div>
+          <button class="comment-send" type="button">SEND</button>
+        </div>
+        <div class="comment-admin-tools" hidden>
+          <textarea class="comment-notice-input" rows="2" maxlength="160" placeholder="发布评论区通知"></textarea>
+          <button class="comment-notice-send" type="button">发布通知</button>
+        </div>
+        <div class="comment-list"></div>
+      </div>
+    </section>
+    <p class="meny-note">属于YJY(BlackCode)的个人网页，欢迎访问嘿嘿嘿</p>
+  </aside>
+  <button class="meny-edge" type="button" aria-controls="site-menu" aria-expanded="false" aria-label="Open sidebar"></button>
+  <div class="meny-stage">
+    <div class="meny-contents">
+      <div id="app"></div>
+    </div>
+  </div>
+  <script src="/site-data.js?v=blackcode-20260701-comment7"></script>
+  <script src="/collection-data.js?v=blackcode-20260701-comment7"></script>
+  <script src="/production-fragments.js?v=blackcode-20260701-comment7"></script>
+  <script src="/app.js?v=blackcode-20260701-comment7"></script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+

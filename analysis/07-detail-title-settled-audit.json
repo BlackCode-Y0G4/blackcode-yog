@@ -1,0 +1,175 @@
+{
+  "timestamp": "2026-06-30T05:44:18.757Z",
+  "top": {
+    "mirror": {
+      "scrollY": 0,
+      "subtitle": null,
+      "title": {
+        "fontSize": "68.8333px",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 311.135
+        },
+        "text": "INSPO",
+        "transform": "matrix(1, 0, 0, 1, 0, 0)",
+        "width": "820px"
+      },
+      "visible": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": 701.924
+          },
+          "visible": true
+        }
+      ]
+    },
+    "local": {
+      "scrollY": 0,
+      "subtitle": {
+        "rect": {
+          "h": 26.396,
+          "w": 184,
+          "x": 540.333,
+          "y": 386.333
+        },
+        "text": "References that help build vision"
+      },
+      "title": {
+        "fontSize": "68.8333px",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 307.271
+        },
+        "text": "INSPO",
+        "transform": "none",
+        "width": "820px"
+      },
+      "visible": [
+        {
+          "alt": "Pixelated typography",
+          "rect": {
+            "h": 199,
+            "w": 214,
+            "x": 267.865,
+            "y": 700.507
+          },
+          "visible": true
+        }
+      ]
+    }
+  },
+  "scroll2200": {
+    "mirror": {
+      "scrollY": 2200,
+      "subtitle": null,
+      "title": {
+        "fontSize": "68.8333px",
+        "rect": {
+          "h": 53.934,
+          "w": 803.19,
+          "x": 230.738,
+          "y": 317.7
+        },
+        "text": "OUTPUT",
+        "transform": "matrix(0.9795, 0, 0, 0.9795, 0, 0)",
+        "width": "820px"
+      },
+      "visible": [
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 22.02
+          },
+          "visible": true
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 87.416
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 354.772
+          },
+          "visible": true
+        }
+      ]
+    },
+    "local": {
+      "scrollY": 2200,
+      "subtitle": {
+        "rect": {
+          "h": 13.198,
+          "w": 184,
+          "x": 540.333,
+          "y": 392.932
+        },
+        "text": "Created concept"
+      },
+      "title": {
+        "fontSize": "68.8333px",
+        "rect": {
+          "h": 55.063,
+          "w": 820,
+          "x": 222.333,
+          "y": 313.87
+        },
+        "text": "OUTPUT",
+        "transform": "none",
+        "width": "820px"
+      },
+      "visible": [
+        {
+          "alt": "Color splash / vibrant object",
+          "rect": {
+            "h": 261,
+            "w": 64,
+            "x": 351.125,
+            "y": 22
+          },
+          "visible": true
+        },
+        {
+          "alt": "Layout and line usage",
+          "rect": {
+            "h": 135.854,
+            "w": 230.531,
+            "x": 766.26,
+            "y": 87.406
+          },
+          "visible": true
+        },
+        {
+          "alt": "Typo mosaic",
+          "rect": {
+            "h": 195,
+            "w": 218,
+            "x": 31.198,
+            "y": 330.667
+          },
+          "visible": true
+        }
+      ]
+    }
+  }
+}
