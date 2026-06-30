@@ -181,6 +181,7 @@ button {
 .navigation-link {
   position: absolute;
   padding: 15px;
+  line-height: 14px;
   pointer-events: auto;
   animation: label-in 0.8s cubic-bezier(0.19, 1, 0.22, 1) both;
   animation-delay: calc(var(--i) * 90ms);
@@ -306,7 +307,16 @@ button {
 }
 
 .examples {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
   min-height: 100vh;
+  padding-top: clamp(56px, calc(2.5vw + 44px), 80px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 60px;
   overflow: hidden;
 }
 
@@ -328,6 +338,7 @@ button {
 .example-card {
   flex: 0 0 auto;
   width: 260px;
+  display: block;
   text-transform: uppercase;
   animation: card-in 0.9s cubic-bezier(0.19, 1, 0.22, 1) both;
 }
@@ -341,25 +352,34 @@ button {
   display: block;
   width: 100%;
   height: auto;
-  margin-top: 8px;
   filter: grayscale(0.08) contrast(0.95);
 }
 
 .example-index {
   display: block;
-  margin-bottom: 4px;
-  font-size: 13px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 1;
 }
 
 .view-project {
-  display: inline-flex;
+  display: flex;
   align-items: center;
-  gap: 6px;
-  margin-top: 12px;
+  gap: 5px;
+  width: 100%;
+  margin-top: 8px;
   opacity: 0;
-  transform: translateY(10px);
+  transform: translateX(-20px);
   transition: 0.25s ease;
   font-size: 12px;
+  line-height: 1;
+}
+
+.view-project svg {
+  display: block;
+  width: 10px;
+  height: 9px;
+  flex: 0 0 auto;
 }
 
 .example-card:hover .view-project {
@@ -896,6 +916,7 @@ button {
 .production-nav .navigation-link {
   position: static;
   display: block;
+  line-height: 12px;
 }
 
 .navigation-label {
@@ -903,12 +924,14 @@ button {
   inset: 0;
   overflow: hidden;
   display: inline-block;
+  line-height: 12px;
 }
 
 .navigation-label-text {
   display: flex;
   gap: 5px;
   align-items: center;
+  line-height: 12px;
 }
 
 .navigation-label-overlay {
@@ -920,6 +943,7 @@ button {
 }
 
 .navigation-label svg {
+  display: block;
   width: 12px;
   height: 12px;
   fill: currentColor;
@@ -927,10 +951,10 @@ button {
 
 /* Inertia carousel */
 .examples-viewport {
-  min-height: 100vh;
+  min-height: auto;
   display: flex;
-  align-items: center;
-  overflow: hidden;
+  min-width: 0;
+  overflow: visible;
   cursor: none;
   touch-action: pan-y;
 }
@@ -938,7 +962,7 @@ button {
 .examples-track {
   min-height: auto;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: clamp(80px, calc(8.3333333333vw + 40px), 160px);
   padding: 0 clamp(72px, calc(5vw + 48px), 120px);
   overflow: visible;

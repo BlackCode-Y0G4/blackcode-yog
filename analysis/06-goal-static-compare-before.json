@@ -1,0 +1,628 @@
+{
+  "mirrorHome": {
+    "arrowPaths": [
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z"
+    ],
+    "barcode": {
+      "h": 35.8125,
+      "w": 192.98959350585938,
+      "x": 543.5052490234375,
+      "y": 694.1875
+    },
+    "bg": {
+      "h": 720,
+      "w": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyFont": "12px",
+    "cards": [],
+    "errors": [],
+    "navLinks": [
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "/examples/",
+        "rect": {
+          "h": 44,
+          "w": 94.69792175292969,
+          "x": 97,
+          "y": 61
+        },
+        "svg": null,
+        "text": "Examples"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "/about/",
+        "rect": {
+          "h": 44,
+          "w": 71.34375,
+          "x": 1111.65625,
+          "y": 61
+        },
+        "svg": null,
+        "text": "About"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "https://savee.it/reframed/",
+        "rect": {
+          "h": 44,
+          "w": 86.13542175292969,
+          "x": 97,
+          "y": 615
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 156.1354217529297,
+          "y": 630
+        },
+        "text": "SAVEE"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "https://www.instagram.com/reframed.online/",
+        "rect": {
+          "h": 44,
+          "w": 117.44792175292969,
+          "x": 1065.5521240234375,
+          "y": 615
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 1156,
+          "y": 630
+        },
+        "text": "Instagram"
+      }
+    ],
+    "stars": [
+      {
+        "h": 45,
+        "w": 45,
+        "x": 112,
+        "y": 336.5
+      },
+      {
+        "h": 45,
+        "w": 45,
+        "x": 1123,
+        "y": 336.5
+      }
+    ],
+    "title": "Reframed — Digital inspiration Lab",
+    "titleRect": {
+      "h": 243.48492431640625,
+      "w": 768.1959838867188,
+      "x": 255.9019775390625,
+      "y": 253.59088134765625
+    },
+    "track": null,
+    "url": "http://127.0.0.1:8769/",
+    "viewport": null
+  },
+  "localHome": {
+    "arrowPaths": [
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z"
+    ],
+    "barcode": {
+      "h": 35.8125,
+      "w": 192.98959350585938,
+      "x": 543.5052490234375,
+      "y": 694.1875
+    },
+    "bg": {
+      "h": 720,
+      "w": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyFont": "12px",
+    "cards": [],
+    "errors": [],
+    "navLinks": [
+      {
+        "cls": "navigation-link",
+        "href": "/examples/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 94.69792175292969,
+          "x": 97,
+          "y": 61
+        },
+        "svg": null,
+        "text": "Examples"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "/about/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 71.34375,
+          "x": 1111.65625,
+          "y": 61
+        },
+        "svg": null,
+        "text": "About"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "https://savee.it/reframed/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 86.13542175292969,
+          "x": 97,
+          "y": 611.6666870117188
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 156.1354217529297,
+          "y": 627.6666870117188
+        },
+        "text": "SAVEE"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "https://www.instagram.com/reframed.online/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 117.44792175292969,
+          "x": 1065.5521240234375,
+          "y": 611.66845703125
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 1156,
+          "y": 627.66845703125
+        },
+        "text": "Instagram"
+      }
+    ],
+    "stars": [
+      {
+        "h": 45,
+        "w": 45,
+        "x": 112,
+        "y": 335.8333435058594
+      },
+      {
+        "h": 45,
+        "w": 45,
+        "x": 1123,
+        "y": 335.8333435058594
+      }
+    ],
+    "title": "Reframed — Digital inspiration Lab",
+    "titleRect": {
+      "h": 247.4307098388672,
+      "w": 780.64501953125,
+      "x": 249.677490234375,
+      "y": 251.87838745117188
+    },
+    "track": null,
+    "url": "http://127.0.0.1:8768/",
+    "viewport": null
+  },
+  "mirrorExamples": {
+    "arrowPaths": [
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z"
+    ],
+    "barcode": {
+      "h": 35.8125,
+      "w": 192.98959350585938,
+      "x": 543.5052490234375,
+      "y": 694.1875
+    },
+    "bg": {
+      "h": 720,
+      "w": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyFont": "12px",
+    "cards": [
+      {
+        "cls": "_item_cf0pr_414",
+        "img": {
+          "h": 197.5,
+          "w": 260,
+          "x": 112,
+          "y": 229.75
+        },
+        "rect": {
+          "h": 376.5,
+          "w": 260,
+          "x": 112,
+          "y": 209.75
+        },
+        "style": "max-width: 260px; touch-action: pan-y; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0%, 0px);",
+        "text": "View project"
+      },
+      {
+        "cls": "_item_cf0pr_414",
+        "img": {
+          "h": 143.1979217529297,
+          "w": 260,
+          "x": 518.6666870117188,
+          "y": 229.75
+        },
+        "rect": {
+          "h": 376.5,
+          "w": 260,
+          "x": 518.6666870117188,
+          "y": 209.75
+        },
+        "style": "max-width: 260px; touch-action: pan-y; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0%, 0px);",
+        "text": "View project"
+      },
+      {
+        "cls": "_item_cf0pr_414",
+        "img": {
+          "h": 252.5,
+          "w": 260,
+          "x": 925.3333740234375,
+          "y": 229.75
+        },
+        "rect": {
+          "h": 376.5,
+          "w": 260,
+          "x": 925.3333740234375,
+          "y": 209.75
+        },
+        "style": "max-width: 260px; touch-action: pan-y; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0%, 0px);",
+        "text": "View project"
+      },
+      {
+        "cls": "_item_cf0pr_414",
+        "img": {
+          "h": 336.5,
+          "w": 260,
+          "x": 1332.00048828125,
+          "y": 229.75
+        },
+        "rect": {
+          "h": 376.5,
+          "w": 260,
+          "x": 1332.00048828125,
+          "y": 209.75
+        },
+        "style": "max-width: 260px; touch-action: pan-y; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0.0002%, 0px, 0px);",
+        "text": "View project"
+      },
+      {
+        "cls": "_item_cf0pr_414",
+        "img": {
+          "h": 151.84375,
+          "w": 260,
+          "x": 1738.686767578125,
+          "y": 229.75
+        },
+        "rect": {
+          "h": 376.5,
+          "w": 260,
+          "x": 1738.686767578125,
+          "y": 209.75
+        },
+        "style": "max-width: 260px; touch-action: pan-y; translate: none; rotate: none; scale: none; opacity: 1; transform: translate3d(0.0077%, 0px, 0px);",
+        "text": "View project"
+      }
+    ],
+    "errors": [],
+    "navLinks": [
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "/examples/",
+        "rect": {
+          "h": 44,
+          "w": 94.69792175292969,
+          "x": 97,
+          "y": 61
+        },
+        "svg": null,
+        "text": "Examples"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "/about/",
+        "rect": {
+          "h": 44,
+          "w": 71.34375,
+          "x": 1111.65625,
+          "y": 61
+        },
+        "svg": null,
+        "text": "About"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "https://savee.it/reframed/",
+        "rect": {
+          "h": 44,
+          "w": 86.13542175292969,
+          "x": 97,
+          "y": 615
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 156.1354217529297,
+          "y": 630
+        },
+        "text": "SAVEE"
+      },
+      {
+        "cls": "_navigationLink_17nxo_236",
+        "href": "https://www.instagram.com/reframed.online/",
+        "rect": {
+          "h": 44,
+          "w": 117.44792175292969,
+          "x": 1065.5521240234375,
+          "y": 615
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 1156,
+          "y": 630
+        },
+        "text": "Instagram"
+      }
+    ],
+    "stars": [
+      {
+        "h": 45,
+        "w": 45,
+        "x": 112,
+        "y": 336.5
+      },
+      {
+        "h": 45,
+        "w": 45,
+        "x": 1123,
+        "y": 336.5
+      }
+    ],
+    "title": "Reframed — Examples",
+    "titleRect": null,
+    "track": {
+      "gap": "146.667px",
+      "padding": "0px 112px",
+      "rect": {
+        "h": 376.5,
+        "w": 2110.666748046875,
+        "x": 0,
+        "y": 209.75
+      },
+      "scrollWidth": 2111,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    },
+    "url": "http://127.0.0.1:8769/examples/",
+    "viewport": {
+      "cursor": "auto",
+      "overflow": "visible",
+      "rect": {
+        "h": 376.5,
+        "w": 1280,
+        "x": 0,
+        "y": 209.75
+      }
+    }
+  },
+  "localExamples": {
+    "arrowPaths": [
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z",
+      "M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z"
+    ],
+    "barcode": {
+      "h": 35.8125,
+      "w": 192.98959350585938,
+      "x": 543.5052490234375,
+      "y": 694.1875
+    },
+    "bg": {
+      "h": 720,
+      "w": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "bodyBg": "rgb(255, 255, 255)",
+    "bodyFont": "12px",
+    "cards": [
+      {
+        "cls": "example-card",
+        "img": {
+          "h": 197.5,
+          "w": 260,
+          "x": 112,
+          "y": 233.9166717529297
+        },
+        "rect": {
+          "h": 246.83334350585938,
+          "w": 260,
+          "x": 112,
+          "y": 210.58334350585938
+        },
+        "style": null,
+        "text": "01. Monoform-> View project"
+      },
+      {
+        "cls": "example-card",
+        "img": {
+          "h": 143.1979217529297,
+          "w": 260,
+          "x": 518.6666870117188,
+          "y": 261.0625
+        },
+        "rect": {
+          "h": 192.53125,
+          "w": 260,
+          "x": 518.6666870117188,
+          "y": 237.7291717529297
+        },
+        "style": null,
+        "text": "02. New Normal-> View project"
+      },
+      {
+        "cls": "example-card",
+        "img": {
+          "h": 252.5,
+          "w": 260,
+          "x": 925.3333740234375,
+          "y": 206.4166717529297
+        },
+        "rect": {
+          "h": 301.8333435058594,
+          "w": 260,
+          "x": 925.3333740234375,
+          "y": 183.08334350585938
+        },
+        "style": null,
+        "text": "03. Nothing-> View project"
+      },
+      {
+        "cls": "example-card",
+        "img": {
+          "h": 336.5,
+          "w": 260,
+          "x": 1332.029541015625,
+          "y": 164.4166717529297
+        },
+        "rect": {
+          "h": 385.8333435058594,
+          "w": 260,
+          "x": 1332.029541015625,
+          "y": 141.08334350585938
+        },
+        "style": null,
+        "text": "04. Space walker-> View project"
+      },
+      {
+        "cls": "example-card",
+        "img": {
+          "h": 151.84375,
+          "w": 260,
+          "x": 1738.9700927734375,
+          "y": 256.7395935058594
+        },
+        "rect": {
+          "h": 201.17709350585938,
+          "w": 260,
+          "x": 1738.9700927734375,
+          "y": 233.40625
+        },
+        "style": null,
+        "text": "05. DigiDays-> View project"
+      }
+    ],
+    "errors": [],
+    "navLinks": [
+      {
+        "cls": "navigation-link",
+        "href": "/examples/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 94.69792175292969,
+          "x": 97,
+          "y": 61
+        },
+        "svg": null,
+        "text": "Examples"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "/about/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 71.34375,
+          "x": 1111.65625,
+          "y": 61
+        },
+        "svg": null,
+        "text": "About"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "https://savee.it/reframed/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 86.13542175292969,
+          "x": 97,
+          "y": 611.6666870117188
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 156.1354217529297,
+          "y": 627.6666870117188
+        },
+        "text": "SAVEE"
+      },
+      {
+        "cls": "navigation-link",
+        "href": "https://www.instagram.com/reframed.online/",
+        "rect": {
+          "h": 47.333335876464844,
+          "w": 117.44792175292969,
+          "x": 1065.5521240234375,
+          "y": 611.66845703125
+        },
+        "svg": {
+          "h": 12,
+          "w": 12,
+          "x": 1156,
+          "y": 627.66845703125
+        },
+        "text": "Instagram"
+      }
+    ],
+    "stars": [
+      {
+        "h": 45,
+        "w": 45,
+        "x": 112,
+        "y": 335.8333435058594
+      },
+      {
+        "h": 45,
+        "w": 45,
+        "x": 1123,
+        "y": 335.8333435058594
+      }
+    ],
+    "title": "Reframed — Examples",
+    "titleRect": null,
+    "track": {
+      "gap": "146.667px",
+      "padding": "0px 112px",
+      "rect": {
+        "h": 385.8333435058594,
+        "w": 2110.666748046875,
+        "x": 0,
+        "y": 141.08334350585938
+      },
+      "scrollWidth": 2111,
+      "transform": "matrix(1, 0, 0, 1, 0, -26)"
+    },
+    "url": "http://127.0.0.1:8768/examples/",
+    "viewport": {
+      "cursor": "none",
+      "overflow": "hidden",
+      "rect": {
+        "h": 720,
+        "w": 1280,
+        "x": 0,
+        "y": 0
+      }
+    }
+  }
+}

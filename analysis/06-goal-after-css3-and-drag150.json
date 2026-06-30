@@ -1,0 +1,209 @@
+{
+  "timestamp": "2026-06-30T05:25:43.144Z",
+  "static": {
+    "mirror": {
+      "firstCard": {
+        "class": "u-uppercase",
+        "rect": {
+          "h": 237.5,
+          "w": 260,
+          "x": 112,
+          "y": 209.75
+        },
+        "text": "View project"
+      },
+      "firstImg": {
+        "alt": "Monoform",
+        "rect": {
+          "h": 197.5,
+          "w": 260,
+          "x": 112,
+          "y": 229.75
+        }
+      },
+      "nav": [
+        {
+          "labelLineHeight": "12px",
+          "lineHeight": "12px",
+          "rect": {
+            "h": 44,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "labelLineHeight": "12px",
+          "lineHeight": "12px",
+          "rect": {
+            "h": 44,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "labelLineHeight": "12px",
+          "lineHeight": "12px",
+          "rect": {
+            "h": 44,
+            "w": 86.135,
+            "x": 97,
+            "y": 615
+          },
+          "text": "SAVEE"
+        },
+        {
+          "labelLineHeight": "12px",
+          "lineHeight": "12px",
+          "rect": {
+            "h": 44,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 615
+          },
+          "text": "Instagram"
+        }
+      ],
+      "track": {
+        "alignItems": "normal",
+        "rect": {
+          "h": 376.5,
+          "w": 2110.667,
+          "x": 0,
+          "y": 209.75
+        },
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "url": "http://127.0.0.1:8769/examples/",
+      "viewProject": {
+        "display": "flex",
+        "opacity": "0",
+        "rect": {
+          "h": 12,
+          "w": 260,
+          "x": 92,
+          "y": 435.25
+        },
+        "text": "View project"
+      }
+    },
+    "local": {
+      "firstCard": {
+        "class": "example-card",
+        "rect": {
+          "h": 237.5,
+          "w": 260,
+          "x": 112,
+          "y": 209.75
+        },
+        "text": "01. Monoform View project"
+      },
+      "firstImg": {
+        "alt": "Monoform",
+        "rect": {
+          "h": 197.5,
+          "w": 260,
+          "x": 112,
+          "y": 229.75
+        }
+      },
+      "nav": [
+        {
+          "labelLineHeight": "14px",
+          "lineHeight": "14px",
+          "rect": {
+            "h": 47.333,
+            "w": 94.698,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "labelLineHeight": "14px",
+          "lineHeight": "14px",
+          "rect": {
+            "h": 47.333,
+            "w": 71.344,
+            "x": 1111.656,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "labelLineHeight": "14px",
+          "lineHeight": "14px",
+          "rect": {
+            "h": 47.333,
+            "w": 86.135,
+            "x": 97,
+            "y": 611.667
+          },
+          "text": "SAVEE"
+        },
+        {
+          "labelLineHeight": "14px",
+          "lineHeight": "14px",
+          "rect": {
+            "h": 47.333,
+            "w": 117.448,
+            "x": 1065.552,
+            "y": 611.67
+          },
+          "text": "Instagram"
+        }
+      ],
+      "track": {
+        "alignItems": "flex-start",
+        "rect": {
+          "h": 376.5,
+          "w": 2110.667,
+          "x": 0,
+          "y": 209.75
+        },
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "url": "http://127.0.0.1:8768/examples/",
+      "viewProject": {
+        "display": "flex",
+        "opacity": "0",
+        "rect": {
+          "h": 12,
+          "w": 260,
+          "x": 92,
+          "y": 435.25
+        },
+        "text": "View project"
+      }
+    }
+  },
+  "drag": {
+    "mirror": {
+      "url": "http://127.0.0.1:8769/examples/",
+      "before": {
+        "imgX": 112,
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "after": {
+        "imgX": -719,
+        "transform": "matrix(1, 0, 0, 1, -831, 0)"
+      },
+      "delta": -831
+    },
+    "local": {
+      "url": "http://127.0.0.1:8768/examples/",
+      "before": {
+        "imgX": 112,
+        "transform": "matrix(1, 0, 0, 1, 0, 0)"
+      },
+      "after": {
+        "imgX": -398,
+        "transform": "matrix(1, 0, 0, 1, -510, 0)"
+      },
+      "delta": -510
+    }
+  }
+}

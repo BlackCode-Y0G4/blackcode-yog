@@ -17,6 +17,7 @@ const hoverTitles = {
 };
 
 const arrowLeftIcon = `<svg class="u-icon u-icon--arrow-left" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9 0H0V9H9V0ZM2.73829 4.26017L4.06813 2.93033L3.72872 2.59092L1.81953 4.50011L3.72872 6.4093L4.06813 6.06989L2.73841 4.74017H6.89961V4.26017H2.73829Z"></path></svg>`;
+const arrowRightIcon = `<svg class="u-icon u-icon--arrow-right" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0 3.96585H7.91349L5.05089 1.09053L5.81425 0.314453L10 4.5002L5.81425 8.68596L5.05089 7.9226L7.91349 5.04728H0V3.96585Z"></path></svg>`;
 
 let currentHover = "";
 let aboutSlide = 1;
@@ -152,11 +153,12 @@ function examples() {
   const viewport = el("section", { class: "examples-viewport" });
   const track = el("div", { class: "examples-track" });
   data.examples.forEach((item, index) => {
-    const card = el("a", { class: "example-card", href: `/examples/${item.id}/` }, [
+    const card = el("a", { class: "example-card", href: `/examples/${item.id}/`, "data-title": item.alt }, [
       el("span", { class: "example-index" }, [`${String(index + 1).padStart(2, "0")}. ${item.alt}`]),
       el("img", { src: item.src, alt: item.alt, width: item.width, height: item.height }),
-      el("span", { class: "view-project" }, ["-> View project"]),
+      el("span", { class: "view-project", html: `${arrowRightIcon} View project` }),
     ]);
+    card.style.maxWidth = `${item.width || 260}px`;
     card.addEventListener("click", (event) => {
       if (Math.abs(Number(track.dataset.dragDistance || 0)) > 6) {
         event.preventDefault();
@@ -334,7 +336,7 @@ function initInertiaDrag(viewport, track) {
   if (dragCleanup) dragCleanup();
   const state = { down: false, startX: 0, x: 0, lastX: 0, lastTime: 0, velocity: 0, raf: 0, min: 0, max: 0 };
   const recalc = () => {
-    state.min = Math.min(0, viewport.clientWidth - track.scrollWidth - viewport.clientWidth * 0.18);
+    state.min = Math.min(0, viewport.clientWidth - track.scrollWidth);
     state.max = 0;
     state.x = clamp(state.x, state.min, state.max);
     setTrackX(track, state.x);
@@ -356,7 +358,8 @@ function initInertiaDrag(viewport, track) {
     const now = performance.now();
     const next = clamp(event.clientX - state.startX, state.min - 90, state.max + 90);
     const dt = Math.max(16, now - state.lastTime);
-    state.velocity = (event.clientX - state.lastX) / dt;
+    const instant = (event.clientX - state.lastX) / dt;
+    state.velocity = state.velocity * 0.8 + instant * 0.2;
     state.x = next;
     track.dataset.dragDistance = String(Number(track.dataset.dragDistance || 0) + Math.abs(event.clientX - state.lastX));
     state.lastX = event.clientX;
@@ -369,22 +372,15 @@ function initInertiaDrag(viewport, track) {
     cursorDown = false;
     viewport.releasePointerCapture?.(event.pointerId);
     document.querySelector(".cursor")?.classList.remove("is-down");
+    const throwVelocity = clamp(state.velocity, -0.6, 0.6);
+    const target = clamp(state.x + throwVelocity * 650, state.min, state.max);
     const momentum = () => {
-      state.velocity *= 0.94;
-      state.x += state.velocity * 16;
-      if (state.x > state.max) {
-        state.x += (state.max - state.x) * 0.18;
-        state.velocity *= 0.7;
-      }
-      if (state.x < state.min) {
-        state.x += (state.min - state.x) * 0.18;
-        state.velocity *= 0.7;
-      }
+      state.x += (target - state.x) * 0.16;
       setTrackX(track, state.x);
-      if (Math.abs(state.velocity) > 0.01 || state.x > state.max + 0.5 || state.x < state.min - 0.5) {
+      if (Math.abs(target - state.x) > 0.5) {
         state.raf = requestAnimationFrame(momentum);
       } else {
-        state.x = clamp(state.x, state.min, state.max);
+        state.x = target;
         setTrackX(track, state.x);
       }
     };
@@ -420,8 +416,7 @@ function deactivateCursor() {
 }
 
 function setTrackX(track, x) {
-  const y = innerWidth > 800 ? -26 : 0;
-  track.style.transform = `translate3d(${x}px, ${y}px, 0)`;
+  track.style.transform = `translate3d(${x}px, 0, 0)`;
 }
 
 function clamp(value, min, max) {

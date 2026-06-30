@@ -1,0 +1,171 @@
+{
+  "timestamp": "2026-06-30T05:29:44.499Z",
+  "mirror": {
+    "card": {
+      "rect": {
+        "h": 237.5,
+        "w": 260,
+        "x": 112,
+        "y": 209.75
+      },
+      "text": "View project"
+    },
+    "img": {
+      "rect": {
+        "h": 197.5,
+        "w": 260,
+        "x": 112,
+        "y": 229.75
+      }
+    },
+    "more": {
+      "display": "flex",
+      "opacity": "0",
+      "rect": {
+        "h": 12,
+        "w": 260,
+        "x": 92,
+        "y": 435.25
+      }
+    },
+    "nav": [
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        },
+        "text": "Examples"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 71.344,
+          "x": 1111.656,
+          "y": 61
+        },
+        "text": "About"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 86.135,
+          "x": 97,
+          "y": 615
+        },
+        "text": "SAVEE"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 117.448,
+          "x": 1065.552,
+          "y": 615
+        },
+        "text": "Instagram"
+      }
+    ],
+    "track": {
+      "alignItems": "normal",
+      "rect": {
+        "h": 376.5,
+        "w": 2110.667,
+        "x": 0,
+        "y": 209.75
+      }
+    }
+  },
+  "local": {
+    "card": {
+      "rect": {
+        "h": 237.5,
+        "w": 260,
+        "x": 112,
+        "y": 209.75
+      },
+      "text": "01. Monoform View project"
+    },
+    "img": {
+      "rect": {
+        "h": 197.5,
+        "w": 260,
+        "x": 112,
+        "y": 229.75
+      }
+    },
+    "more": {
+      "display": "flex",
+      "opacity": "0",
+      "rect": {
+        "h": 12,
+        "w": 260,
+        "x": 92,
+        "y": 435.25
+      }
+    },
+    "nav": [
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 94.698,
+          "x": 97,
+          "y": 61
+        },
+        "text": "Examples"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 71.344,
+          "x": 1111.656,
+          "y": 61
+        },
+        "text": "About"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 86.135,
+          "x": 97,
+          "y": 615.005
+        },
+        "text": "SAVEE"
+      },
+      {
+        "labelLH": "12px",
+        "lh": "12px",
+        "rect": {
+          "h": 44,
+          "w": 117.448,
+          "x": 1065.552,
+          "y": 615.029
+        },
+        "text": "Instagram"
+      }
+    ],
+    "track": {
+      "alignItems": "flex-start",
+      "rect": {
+        "h": 376.5,
+        "w": 2110.667,
+        "x": 0,
+        "y": 209.75
+      }
+    }
+  }
+}
