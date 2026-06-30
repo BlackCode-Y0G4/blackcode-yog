@@ -1,0 +1,1314 @@
+{
+  "about": {
+    "slides": [
+      {
+        "id": 1,
+        "text": "<p>Hello there. This is <strong>Reframed</strong>—A Digital inspiration LAB</p>",
+        "actions": [
+          {
+            "goto": 2,
+            "label": "What is its purpose?"
+          },
+          {
+            "goto": 4,
+            "label": "Whathever, not interested"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "<p>\"Reframed\" is here for the exploration and analysis of visual design work, and to discover what makes it effective.</p><p>True originality is a myth. Everyone is influenced and inspired by something.</p><p>Acting on that knowledge means creating new work that evokes a fresh perspective on existing inspiration.</p>",
+        "actions": [
+          {
+            "goto": "/examples",
+            "label": "So, how do you show that “Fresh perspective”?"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "<p>We’ll show what influences us and how final result looks like. This is exercise to make this influence more conscious and use it as a tool for finding inspiration in our references. We call this reframing.</p>",
+        "actions": [
+          {
+            "goto": "/examples",
+            "label": "Got it, let’s see what you got. GO TO Examples."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "<p>So yoU’re more “show, don’t tell” type of person? then you can check examples page, and see how inspiration influences design work.</p>",
+        "actions": [
+          {
+            "goto": "/examples",
+            "label": "Got it"
+          }
+        ]
+      }
+    ]
+  },
+  "examples": [
+    {
+      "id": "monoform",
+      "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/monoform/thumb_l2ayul.jpg",
+      "alt": "Monoform",
+      "width": 260,
+      "height": 197,
+      "is_thumb": "TRUE",
+      "section": null,
+      "position": null,
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/Cr0obMbMrYU/"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/shots/20889887-Monoform-Concept-pt-1"
+        },
+        {
+          "name": "BORNFIGHT STUDIO® Website",
+          "url": "https://www.bornfight.studio/pantry/monoform"
+        }
+      ],
+      "inspiration": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "069354AD",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/inspiration_01_yee4ax.jpg",
+          "alt": "Pixelated typography",
+          "width": 214,
+          "height": 199,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "484CFE52",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/inspiration_02_eun2gj.jpg",
+          "alt": "Background + vibrant object combo",
+          "width": 219,
+          "height": 174,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "E20A0391",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/inspiration_03_ioticw.jpg",
+          "alt": "Interesting spec sheet layout",
+          "width": 161,
+          "height": 196,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/monoform/inspiration_06_dnwvm7.jpg",
+          "alt": "Object layering",
+          "width": 154,
+          "height": 219,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "BA26F1FF",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/monoform/inspiration_05_d9w9x7.jpg",
+          "alt": "Splash of color",
+          "width": 160,
+          "height": 159,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "EAFC5634",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/monoform/inspiration_07_ctwpv1.jpg",
+          "alt": "Typo mosaic",
+          "width": 194,
+          "height": 121,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "right center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "1D08B8BD",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/monoform/inspiration_04_sxndje.jpg",
+          "alt": "Technical typography",
+          "width": 252,
+          "height": 167,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "center center"
+        }
+      ],
+      "output": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "036CC26D",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/output_01_n2nghc.jpg",
+          "alt": "Color splash / vibrant object",
+          "width": 64,
+          "height": 261,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "4355D2E2",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/output_02_hwlkk5.jpg",
+          "alt": "Layout and line usage",
+          "width": 263,
+          "height": 155,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "817F8A5F",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/output_03_ds7q57.jpg",
+          "alt": "Typo mosaic",
+          "width": 218,
+          "height": 195,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "7A1C887F",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/output_04_zyexz9.jpg",
+          "alt": "Vibrant object",
+          "width": 122,
+          "height": 265,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "52774D81",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/output_05_vfzizv.jpg",
+          "alt": "Color splash / vibrant object",
+          "width": 263,
+          "height": 215,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "E4DF51F8",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/monoform/output_06_u4q8am.jpg",
+          "alt": "Color splash / vibrant object / pixelated typography / Layering",
+          "width": 264,
+          "height": 200,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "134119EF",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/monoform/output_07_xfovjd.jpg",
+          "alt": "Line usage",
+          "width": 124,
+          "height": 264,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top left"
+        }
+      ]
+    },
+    {
+      "id": "new-normal",
+      "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/new_normal/thumb_qjna42.jpg",
+      "alt": "New Normal",
+      "width": 260,
+      "height": 140,
+      "is_thumb": "TRUE",
+      "section": null,
+      "position": null,
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/Cr0md55oaTV/"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/shots/17792168-A-New-Normal"
+        }
+      ],
+      "inspiration": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_01_uwthwk.jpg",
+          "alt": "Full background image",
+          "width": 223,
+          "height": 167,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "6613FAE2",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_02_osdmlh.jpg",
+          "alt": "Sans / pixelated type combo",
+          "width": 263,
+          "height": 123,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "74B26397",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_03_ms4dhl.jpg",
+          "alt": "Monochromatic look",
+          "width": 177,
+          "height": 250,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "8854E8A6",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_04_c8e3ic.jpg",
+          "alt": "SoLid outlined shapes",
+          "width": 144,
+          "height": 202,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "0931D22D",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_05_kfclud.jpg",
+          "alt": "Grotesk uppercases",
+          "width": 234,
+          "height": 176,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "1C6FD90A",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/inspiration_06_w3toxn.jpg",
+          "alt": "Washed out black section",
+          "width": 151,
+          "height": 151,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        }
+      ],
+      "output": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "EE920738",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/output_01_znubot.jpg",
+          "alt": "Monocrhomatic look",
+          "width": 264,
+          "height": 143,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "0D351F50",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/output_02_rgjjii.jpg",
+          "alt": "Pixelated typography",
+          "width": 264,
+          "height": 143,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "8A2BFF39",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908543/reframed/new_normal/output_03_jawvhl.jpg",
+          "alt": "Grotesk uppercases",
+          "width": 264,
+          "height": 143,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "8C81D410",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/new_normal/output_04_u8c8uh.jpg",
+          "alt": "Full background image",
+          "width": 264,
+          "height": 144,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "F66DD5E3",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908542/reframed/new_normal/output_05_d8wida.jpg",
+          "alt": "Outlined shapes",
+          "width": 264,
+          "height": 143,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        }
+      ]
+    },
+    {
+      "id": "nothing",
+      "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/nothing/thumb_ekogku.jpg",
+      "alt": "Nothing",
+      "width": 260,
+      "height": 252,
+      "is_thumb": "TRUE",
+      "section": null,
+      "position": null,
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/Cr0oPFcs9rd"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/shots/20517959-Nothing-E-Commerce-Concept-pt-4"
+        },
+        {
+          "name": "BORNFIGHT STUDIO® Website",
+          "url": "https://www.bornfight.studio/pantry/nothing"
+        }
+      ],
+      "inspiration": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "BDCDA486",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/inspiration_01_tgdlqr.jpg",
+          "alt": "“Darkmode” look",
+          "width": 205,
+          "height": 154,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "B8B21A7C",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/nothing/inspiration_02_ipu8gu.jpg",
+          "alt": "Brown color presence",
+          "width": 179,
+          "height": 134,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "left center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "EE4251AE",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/nothing/inspiration_03_hwmx9g.jpg",
+          "alt": "Sliding gallery",
+          "width": 184,
+          "height": 138,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "658B0768",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/nothing/inspiration_04_mifqsm.jpg",
+          "alt": "Technical illustration / specs",
+          "width": 134,
+          "height": 191,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": 25873687,
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/nothing/inspiration_05_aks3ea.jpg",
+          "alt": "Side scrolling layout",
+          "width": 191,
+          "height": 199,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "B4B99F7C",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/nothing/inspiration_06_dxlllt.jpg",
+          "alt": "Product photography",
+          "width": 238,
+          "height": 190,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top right"
+        }
+      ],
+      "output": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "FB59BF80",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_01_nhqcpg.jpg",
+          "alt": "Brown color presence",
+          "width": 216,
+          "height": 208,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "74E7FAEB",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_02_nutwht.jpg",
+          "alt": "Technical illustration / specs",
+          "width": 250,
+          "height": 267,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "302E6A74",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_03_g24mlb.jpg",
+          "alt": "“Darkmode” look",
+          "width": 222,
+          "height": 183,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "right center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "5CDCA7AC",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_04_jolo61.jpg",
+          "alt": "Product photography",
+          "width": 93,
+          "height": 246,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "26CCC6E0",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_05_tzle28.jpg",
+          "alt": "Sliding Gallery",
+          "width": 196,
+          "height": 156,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "bottom right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "91FD5297",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908544/reframed/nothing/output_06_akt8vr.jpg",
+          "alt": "“Darkmode” look",
+          "width": 82,
+          "height": 250,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top left"
+        }
+      ]
+    },
+    {
+      "id": "space-walker",
+      "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908547/reframed/space_walker/thumb_cq5ibe.jpg",
+      "alt": "Space walker",
+      "width": 260,
+      "height": 252,
+      "is_thumb": "TRUE",
+      "section": null,
+      "position": null,
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/Cr0n_IhM4uw/"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/shots/17336407-Space-Walker"
+        },
+        {
+          "name": "BORNFIGHT STUDIO® Website",
+          "url": "https://www.bornfight.studio/pantry/space-walker"
+        }
+      ],
+      "inspiration": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "ADA69341",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_01_fj41tk.jpg",
+          "alt": "Space themed signage",
+          "width": 181,
+          "height": 174,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "A7FAD2D7",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_02_frgbmv.jpg",
+          "alt": "Window-like image format",
+          "width": 170,
+          "height": 243,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "E78F58E1",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_03_nuipsu.jpg",
+          "alt": "Photography style",
+          "width": 196,
+          "height": 232,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": 365283000,
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_04_nji0bv.jpg",
+          "alt": "Oval elements",
+          "width": 264,
+          "height": 206,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "B566030A",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_05_diqjgs.jpg",
+          "alt": "Gradient style",
+          "width": 264,
+          "height": 121,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "center center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "8A960F95",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/inspiration_06_anltcn.jpg",
+          "alt": "Overall color scheme and contrasts",
+          "width": 214,
+          "height": 175,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        }
+      ],
+      "output": [
+        {
+          "id": "CEB4A3C6",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/space_walker/output_01_uilvrd.jpg",
+          "alt": "Window-like image format",
+          "width": 229,
+          "height": 197,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "186C1BAF",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/space_walker/output_02_zxo5sl.jpg",
+          "alt": "Photography style",
+          "width": 321,
+          "height": 239,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top right"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "FFE2F47D",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908546/reframed/space_walker/output_03_bhnwsf.jpg",
+          "alt": "Oval elements",
+          "width": 216,
+          "height": 152,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "left center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "80618B46",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908545/reframed/space_walker/output_04_rzgpqy.jpg",
+          "alt": "Gradient style / space-themed signage",
+          "width": 264,
+          "height": 228,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        }
+      ]
+    },
+    {
+      "id": "digidays",
+      "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/thumb_xlgdow.jpg",
+      "alt": "DigiDays",
+      "width": 260,
+      "height": 135,
+      "is_thumb": "TRUE",
+      "section": null,
+      "position": null,
+      "social": [
+        {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/p/Cr0lvQYIVIr/"
+        },
+        {
+          "name": "Dribbble",
+          "url": "https://dribbble.com/shots/12023818-DigiDays-Conference"
+        }
+      ],
+      "inspiration": [
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "9B21CC45",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908539/reframed/digidays/inspiration_01_cykln7.jpg",
+          "alt": "Single entry layout",
+          "width": 162,
+          "height": 263,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "1EDBF02D",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/inspiration_02_pj1xuz.jpg",
+          "alt": "Color scheme",
+          "width": 147,
+          "height": 156,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "EFB4415F",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/inspiration_03_pzlon3.jpg",
+          "alt": "Separator layout",
+          "width": 264,
+          "height": 146,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "35231B9F",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/inspiration_04_kgof05.jpg",
+          "alt": "Typographic style",
+          "width": 169,
+          "height": 260,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "top left"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "AC6C13B3",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/inspiration_05_yrdlxz.jpg",
+          "alt": "Agenda layout",
+          "width": 264,
+          "height": 327,
+          "is_thumb": "FALSE",
+          "section": "inspiration",
+          "position": "bottom center"
+        }
+      ],
+      "output": [
+        {
+          "id": "F2AC3707",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908539/reframed/digidays/output_01_iku7r5.jpg",
+          "alt": "Typographic style / Color scheme",
+          "width": 264,
+          "height": 137,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "C99DDB98",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/output_02_mv7qlr.jpg",
+          "alt": "Agenda layout / Single entry layout",
+          "width": 264,
+          "height": 229,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "top center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "9C48556D",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908540/reframed/digidays/output_03_pqw5a4.jpg",
+          "alt": "Typographic style",
+          "width": 260,
+          "height": 214,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "bottom center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "995B3369",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908539/reframed/digidays/output_04_ca8bmc.jpg",
+          "alt": "Color scheme, Typographic style",
+          "width": 263,
+          "height": 137,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "bottom center"
+        },
+        {
+          "id": null,
+          "src": null,
+          "alt": null,
+          "width": null,
+          "height": null,
+          "position": null
+        },
+        {
+          "id": "960B5D95",
+          "src": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908539/reframed/digidays/output_05_pxdx3l.jpg",
+          "alt": "Photography style",
+          "width": 264,
+          "height": 166,
+          "is_thumb": "FALSE",
+          "section": "output",
+          "position": "bottom center"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "generatedAt": "2026-06-30T04:19:22.807Z",
+  "routes": {
+    "home": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": false,
+      "cards": 0,
+      "close": null,
+      "errors": [],
+      "firstCard": null,
+      "hero": {
+        "height": 250,
+        "text": "REFRAMED",
+        "width": 790,
+        "x": 245,
+        "y": 253
+      },
+      "images": 0,
+      "navLinks": [
+        {
+          "rect": {
+            "height": 47,
+            "width": 95,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 71,
+            "x": 1112,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 86,
+            "x": 97,
+            "y": 612
+          },
+          "text": "SAVEE"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 117,
+            "x": 1066,
+            "y": 612
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Digital inspiration Lab",
+      "trackTransform": null,
+      "url": "http://127.0.0.1:8768/"
+    },
+    "examples": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": false,
+      "cards": 5,
+      "close": {
+        "height": 46,
+        "text": "",
+        "width": 46,
+        "x": 617,
+        "y": 41
+      },
+      "errors": [],
+      "firstCard": {
+        "height": 248,
+        "text": "01. Monoform-> View project",
+        "width": 260,
+        "x": 112,
+        "y": 210
+      },
+      "hero": null,
+      "images": 0,
+      "navLinks": [
+        {
+          "rect": {
+            "height": 47,
+            "width": 95,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 71,
+            "x": 1112,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 86,
+            "x": 97,
+            "y": 612
+          },
+          "text": "SAVEE"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 117,
+            "x": 1066,
+            "y": 612
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Examples",
+      "trackTransform": "translate3d(0px, -26px, 0px)",
+      "url": "http://127.0.0.1:8768/examples/"
+    },
+    "monoform": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": true,
+      "cards": 0,
+      "close": {
+        "height": 46,
+        "text": "",
+        "width": 46,
+        "x": 609,
+        "y": 41
+      },
+      "errors": [],
+      "firstCard": null,
+      "hero": null,
+      "images": 14,
+      "navLinks": [
+        {
+          "rect": {
+            "height": 47,
+            "width": 95,
+            "x": 97,
+            "y": 61
+          },
+          "text": "Examples"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 71,
+            "x": 1096,
+            "y": 61
+          },
+          "text": "About"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 86,
+            "x": 97,
+            "y": 612
+          },
+          "text": "SAVEE"
+        },
+        {
+          "rect": {
+            "height": 47,
+            "width": 117,
+            "x": 1050,
+            "y": 612
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Monoform",
+      "trackTransform": null,
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  },
+  "actions": {
+    "drag": {
+      "after": "translate3d(-1573.4px, -26px, 0px)",
+      "before": "translate3d(0px, -26px, 0px)",
+      "changed": true
+    },
+    "imageLocatorCount": 7,
+    "lightbox": {
+      "caption": "069354ADPixelated typography",
+      "isOpen": true
+    }
+  },
+  "screenshots": {
+    "home": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-tuned-home-1280x720.png",
+    "examples": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-tuned-examples-1280x720.png",
+    "examplesAfterDrag": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-tuned-examples-after-drag-1280x720.png",
+    "monoform": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-tuned-monoform-1280x720.png",
+    "monoformLightbox": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-tuned-monoform-lightbox-1280x720.png"
+  },
+  "consoleErrors": []
+}

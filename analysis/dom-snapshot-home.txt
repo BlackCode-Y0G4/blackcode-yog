@@ -1,0 +1,23 @@
+- paragraph: GETTING
+- heading "R E F R A M E D" [level=1]:
+  - generic: R
+  - generic: E
+  - generic: F
+  - generic: R
+  - generic: A
+  - generic: M
+  - generic: E
+  - generic: D
+- navigation:
+  - link "Examples":
+    - /url: /examples/
+    - generic: Examples
+  - link "About":
+    - /url: /about/
+    - generic: About
+  - link "SAVEE":
+    - /url: https://savee.it/reframed/
+    - text: SAVEE
+  - link "Instagram":
+    - /url: https://www.instagram.com/reframed.online/
+    - text: Instagram

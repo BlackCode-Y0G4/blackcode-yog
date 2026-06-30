@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-06-30T04:26:57.533Z",
+  "states": {
+    "top": {
+      "bodyDark": false,
+      "broken": [],
+      "firstImage": {
+        "height": 214,
+        "text": "",
+        "width": 231,
+        "x": 268,
+        "y": 652
+      },
+      "images": 14,
+      "lightbox": false,
+      "phase": "Inspo",
+      "scrollY": 0,
+      "subtitle": "References that help build vision",
+      "title": "Reframed — Monoform",
+      "titleRect": {
+        "height": 114,
+        "text": "InspoReferences that help build vision",
+        "width": 1265,
+        "x": 0,
+        "y": 303
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    },
+    "inspoGrid": {
+      "bodyDark": false,
+      "broken": [],
+      "firstImage": {
+        "height": 214,
+        "text": "",
+        "width": 231,
+        "x": 268,
+        "y": -248
+      },
+      "images": 14,
+      "lightbox": false,
+      "phase": "Inspo",
+      "scrollY": 900,
+      "subtitle": "References that help build vision",
+      "title": "Reframed — Monoform",
+      "titleRect": {
+        "height": 114,
+        "text": "InspoReferences that help build vision",
+        "width": 1265,
+        "x": 0,
+        "y": 303
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    },
+    "output": {
+      "bodyDark": true,
+      "broken": [],
+      "firstImage": {
+        "height": 214,
+        "text": "",
+        "width": 231,
+        "x": 268,
+        "y": -1848
+      },
+      "images": 14,
+      "lightbox": false,
+      "phase": "Output",
+      "scrollY": 2500,
+      "subtitle": "Created concept",
+      "title": "Reframed — Monoform",
+      "titleRect": {
+        "height": 97,
+        "text": "OutputCreated concept",
+        "width": 1265,
+        "x": 0,
+        "y": 312
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    },
+    "lightbox": {
+      "bodyDark": false,
+      "broken": [],
+      "firstImage": {
+        "height": 214,
+        "text": "",
+        "width": 231,
+        "x": 268,
+        "y": 253
+      },
+      "images": 14,
+      "lightbox": true,
+      "phase": "Inspo",
+      "scrollY": 399,
+      "subtitle": "References that help build vision",
+      "title": "Reframed — Monoform",
+      "titleRect": {
+        "height": 114,
+        "text": "InspoReferences that help build vision",
+        "width": 1265,
+        "x": 0,
+        "y": 303
+      },
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  },
+  "screenshots": {
+    "top": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-detail-scroll-top-1280x720.png",
+    "inspoGrid": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-detail-scroll-inspo-1280x720.png",
+    "output": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-detail-scroll-output-1280x720.png",
+    "lightbox": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-detail-scroll-lightbox-1280x720.png"
+  },
+  "imageLocatorCount": 14,
+  "consoleErrors": []
+}

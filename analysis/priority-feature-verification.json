@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-06-30T04:09:45.262Z",
+  "routes": {
+    "home": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": false,
+      "cards": 0,
+      "errors": [],
+      "hero": {
+        "height": 147,
+        "width": 774,
+        "x": 253,
+        "y": 304
+      },
+      "images": 0,
+      "lightboxOpen": false,
+      "navLinks": [
+        {
+          "href": "/examples/",
+          "rect": {
+            "height": 53,
+            "width": 116,
+            "x": 105,
+            "y": 65
+          },
+          "text": "Examples"
+        },
+        {
+          "href": "/about/",
+          "rect": {
+            "height": 53,
+            "width": 85,
+            "x": 1090,
+            "y": 65
+          },
+          "text": "About"
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "rect": {
+            "height": 53,
+            "width": 99,
+            "x": 105,
+            "y": 603
+          },
+          "text": "SAVEE"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "rect": {
+            "height": 53,
+            "width": 141,
+            "x": 1034,
+            "y": 603
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Digital inspiration Lab",
+      "trackTransform": null,
+      "url": "http://127.0.0.1:8768/"
+    },
+    "examples": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": false,
+      "cards": 5,
+      "errors": [],
+      "hero": null,
+      "images": 0,
+      "lightboxOpen": false,
+      "navLinks": [
+        {
+          "href": "/examples/",
+          "rect": {
+            "height": 53,
+            "width": 116,
+            "x": 105,
+            "y": 65
+          },
+          "text": "Examples"
+        },
+        {
+          "href": "/about/",
+          "rect": {
+            "height": 53,
+            "width": 85,
+            "x": 1090,
+            "y": 65
+          },
+          "text": "About"
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "rect": {
+            "height": 53,
+            "width": 99,
+            "x": 105,
+            "y": 603
+          },
+          "text": "SAVEE"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "rect": {
+            "height": 53,
+            "width": 141,
+            "x": 1034,
+            "y": 603
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Digital inspiration Lab",
+      "trackTransform": "translate3d(0px, 0px, 0px)",
+      "url": "http://127.0.0.1:8768/examples/"
+    },
+    "monoform": {
+      "backgroundSvg": true,
+      "barcodeSvg": false,
+      "bodyDark": true,
+      "cards": 0,
+      "errors": [],
+      "hero": null,
+      "images": 14,
+      "lightboxOpen": false,
+      "navLinks": [
+        {
+          "href": "/examples/",
+          "rect": {
+            "height": 53,
+            "width": 116,
+            "x": 105,
+            "y": 65
+          },
+          "text": "Examples"
+        },
+        {
+          "href": "/about/",
+          "rect": {
+            "height": 53,
+            "width": 85,
+            "x": 1075,
+            "y": 65
+          },
+          "text": "About"
+        },
+        {
+          "href": "https://savee.it/reframed/",
+          "rect": {
+            "height": 53,
+            "width": 99,
+            "x": 105,
+            "y": 603
+          },
+          "text": "SAVEE"
+        },
+        {
+          "href": "https://www.instagram.com/reframed.online/",
+          "rect": {
+            "height": 53,
+            "width": 141,
+            "x": 1019,
+            "y": 604
+          },
+          "text": "Instagram"
+        }
+      ],
+      "starSvgs": 2,
+      "title": "Reframed — Digital inspiration Lab",
+      "trackTransform": null,
+      "url": "http://127.0.0.1:8768/examples/monoform/"
+    }
+  },
+  "actions": {
+    "drag": {
+      "after": "translate3d(-1604.4px, 0px, 0px)",
+      "before": "translate3d(0px, 0px, 0px)",
+      "changed": true
+    },
+    "imageLocatorCount": 7,
+    "lightbox": {
+      "caption": "069354ADPixelated typography",
+      "imageSrc": "https://res.cloudinary.com/bornfight-studio/image/upload/v1681908541/reframed/monoform/inspiration_01_yee4ax.jpg",
+      "isOpen": true
+    }
+  },
+  "screenshots": {
+    "home": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-priority-home-1280x720.png",
+    "examples": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-priority-examples-1280x720.png",
+    "examplesAfterDrag": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-priority-examples-after-drag-1280x720.png",
+    "monoform": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-priority-monoform-1280x720.png",
+    "monoformLightbox": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-priority-monoform-lightbox-1280x720.png"
+  },
+  "consoleErrors": []
+}

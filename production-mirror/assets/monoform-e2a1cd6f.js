@@ -1,0 +1,1 @@
+import{b as o,a as m}from"./style-403a1701.js";import{E as r}from"./ExamplePage-c7d67b2d.js";import"./Stars-55eb5a44.js";import"./data-12f5e080.js";import"./Glass-01dc6a2a.js";import"./Title-6147f743.js";o.createRoot(document.getElementById("root")).render(m(r,{id:"monoform"}));

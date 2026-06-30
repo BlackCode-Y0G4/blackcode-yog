@@ -1,0 +1,96 @@
+{
+  "bodyClass": "",
+  "canvases": [],
+  "imgs": [],
+  "links": [
+    {
+      "className": "_navigationLink_17nxo_236",
+      "href": "https://www.reframed.online/examples/",
+      "target": "",
+      "text": "Examples"
+    },
+    {
+      "className": "_navigationLink_17nxo_236",
+      "href": "https://www.reframed.online/about/",
+      "target": "",
+      "text": "About"
+    },
+    {
+      "className": "_navigationLink_17nxo_236",
+      "href": "https://savee.it/reframed/",
+      "target": "_blank",
+      "text": "SAVEE"
+    },
+    {
+      "className": "_navigationLink_17nxo_236",
+      "href": "https://www.instagram.com/reframed.online/",
+      "target": "_blank",
+      "text": "Instagram"
+    }
+  ],
+  "rootHtml": "<div class=\"_background_1i2u2_218\"><svg viewBox=\"0 0 1440 1440\" preserveAspectRatio=\"xMinYMin slice\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke-width=\"1\"><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720.5 360.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"1440.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720.5 1080.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"0\" y2=\"720.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"360.25 720.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"0\" y2=\"1440.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"360.25 1080.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"1440.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"1080.5 360.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"1440.5\" y2=\"720.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"1080.5 720.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line></g><circle cx=\"720\" cy=\"720\" r=\"420\" transform=\"matrix(0,1,-1,0,1440,0)\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720 720\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></circle></svg></div><div class=\"_stars_iqa1f_218\"><div><svg width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 12.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 19\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"50\" y2=\"24.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"37.25 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" y2=\"24.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"12.25 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"50\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 37.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"13.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"19 19\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"35.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 30\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"13.5\" y2=\"35.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"19 30\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><rect x=\"16.5\" y=\"16.5\" width=\"16\" height=\"16\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></rect></svg></div><div><svg width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 12.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 19\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"50\" y2=\"24.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"37.25 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" y2=\"24.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"12.25 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"50\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 37.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"13.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"19 19\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"35.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 30\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"13.5\" y2=\"35.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"19 30\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><rect x=\"16.5\" y=\"16.5\" width=\"16\" height=\"16\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 24.5\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></rect></svg></div></div><svg class=\"_barCode_1lme7_218\" viewBox=\"0 0 194 36\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M52.9912 0.660032V7.53519H53.906V4.59832H56.1399C56.3646 4.59832 56.5443 4.63363 56.6791 4.70424C56.814 4.76843 56.9231 4.8583 57.0065 4.97385C57.09 5.08298 57.151 5.21458 57.1895 5.36865C57.228 5.51629 57.2601 5.67357 57.2858 5.84047C57.3179 6.00737 57.3371 6.17749 57.3435 6.35081C57.35 6.52413 57.3564 6.68783 57.3628 6.84189C57.3692 6.98954 57.3821 7.12434 57.4013 7.24631C57.427 7.36828 57.4719 7.46457 57.5361 7.53519H58.5568C58.4605 7.41964 58.3867 7.28804 58.3353 7.14039C58.2904 6.98633 58.2551 6.82584 58.2294 6.65894C58.2037 6.49204 58.1877 6.32192 58.1813 6.1486C58.1749 5.97528 58.1652 5.80516 58.1524 5.63826C58.1331 5.47136 58.1042 5.31087 58.0657 5.15681C58.0336 5.00274 57.9791 4.86472 57.902 4.74276C57.8314 4.61437 57.7319 4.50524 57.6035 4.41537C57.4816 4.3255 57.3211 4.2613 57.1221 4.22279V4.20353C57.5393 4.08798 57.8411 3.87293 58.0272 3.55838C58.2198 3.24383 58.3161 2.87793 58.3161 2.46067C58.3161 1.90218 58.1299 1.46245 57.7576 1.14149C57.3917 0.820516 56.8814 0.660032 56.2266 0.660032H52.9912ZM55.8125 3.82799H53.906V1.43036H56.1784C56.6085 1.43036 56.9199 1.53949 57.1125 1.75775C57.305 1.976 57.4013 2.25846 57.4013 2.6051C57.4013 2.85546 57.3564 3.06088 57.2665 3.22136C57.1831 3.37543 57.0675 3.50061 56.9199 3.5969C56.7786 3.68677 56.6117 3.74775 56.4192 3.77985C56.2266 3.81195 56.0244 3.82799 55.8125 3.82799Z\" fill=\"black\"></path><path d=\"M59.583 0.660032V7.53519H64.359V6.76486H60.4977V4.38648H64.0701V3.61616H60.4977V1.43036H64.3301V0.660032H59.583Z\" fill=\"black\"></path><path d=\"M65.4695 0.660032V7.53519H66.3843V4.38648H69.5426V3.61616H66.3843V1.43036H69.9855V0.660032H65.4695Z\" fill=\"black\"></path><path d=\"M70.9987 0.660032V7.53519H71.9135V4.59832H74.1474C74.3721 4.59832 74.5518 4.63363 74.6866 4.70424C74.8214 4.76843 74.9306 4.8583 75.014 4.97385C75.0975 5.08298 75.1585 5.21458 75.197 5.36865C75.2355 5.51629 75.2676 5.67357 75.2933 5.84047C75.3254 6.00737 75.3446 6.17749 75.351 6.35081C75.3574 6.52413 75.3639 6.68783 75.3703 6.84189C75.3767 6.98954 75.3895 7.12434 75.4088 7.24631C75.4345 7.36828 75.4794 7.46457 75.5436 7.53519H76.5643C76.468 7.41964 76.3942 7.28804 76.3428 7.14039C76.2979 6.98633 76.2626 6.82584 76.2369 6.65894C76.2112 6.49204 76.1952 6.32192 76.1888 6.1486C76.1823 5.97528 76.1727 5.80516 76.1599 5.63826C76.1406 5.47136 76.1117 5.31087 76.0732 5.15681C76.0411 5.00274 75.9865 4.86472 75.9095 4.74276C75.8389 4.61437 75.7394 4.50524 75.611 4.41537C75.489 4.3255 75.3286 4.2613 75.1296 4.22279V4.20353C75.5468 4.08798 75.8485 3.87293 76.0347 3.55838C76.2273 3.24383 76.3236 2.87793 76.3236 2.46067C76.3236 1.90218 76.1374 1.46245 75.7651 1.14149C75.3992 0.820516 74.8888 0.660032 74",
+  "scripts": [
+    "https://www.googletagmanager.com/gtag/js?id=G-9RTHZF85LP",
+    "https://www.reframed.online/assets/home-d31be3d2.js"
+  ],
+  "stylesheets": [
+    "https://www.reframed.online/assets/style-0be948e9.css",
+    "https://www.reframed.online/assets/Stars-02d87499.css",
+    "https://www.reframed.online/assets/Title-660a3fb1.css",
+    "https://www.reframed.online/assets/index-b1abdf6b.css"
+  ],
+  "svgCount": 6,
+  "svgs": [
+    {
+      "cls": null,
+      "h": null,
+      "html": "<svg viewBox=\"0 0 1440 1440\" preserveAspectRatio=\"xMinYMin slice\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g stroke-width=\"1\"><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"720.5 360.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"720.5\" y1=\"720.5\" x2=\"720.5\" y2=\"1440.5\" vector-effect=\"non-scaling-stroke\" data-",
+      "i": 0,
+      "viewBox": "0 0 1440 1440",
+      "w": null
+    },
+    {
+      "cls": null,
+      "h": "50",
+      "html": "<svg width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 12.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 19\" transform=\"matrix(1,0,0,1,0,0",
+      "i": 1,
+      "viewBox": "0 0 50 50",
+      "w": "50"
+    },
+    {
+      "cls": null,
+      "h": "50",
+      "html": "<svg width=\"50\" height=\"50\" viewBox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"24.5\" y1=\"24.5\" x2=\"24.5\" y2=\"0\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"24.5 12.25\" transform=\"matrix(1,0,0,1,0,0)\" style=\"transform-origin: 0px 0px; translate: none; rotate: none; scale: none; stroke-dashoffset: 0; stroke-dasharray: none;\"></line><line x1=\"24.5\" y1=\"24.5\" x2=\"35.5\" y2=\"13.5\" vector-effect=\"non-scaling-stroke\" data-svg-origin=\"30 19\" transform=\"matrix(1,0,0,1,0,0",
+      "i": 2,
+      "viewBox": "0 0 50 50",
+      "w": "50"
+    },
+    {
+      "cls": "_barCode_1lme7_218",
+      "h": null,
+      "html": "<svg class=\"_barCode_1lme7_218\" viewBox=\"0 0 194 36\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M52.9912 0.660032V7.53519H53.906V4.59832H56.1399C56.3646 4.59832 56.5443 4.63363 56.6791 4.70424C56.814 4.76843 56.9231 4.8583 57.0065 4.97385C57.09 5.08298 57.151 5.21458 57.1895 5.36865C57.228 5.51629 57.2601 5.67357 57.2858 5.84047C57.3179 6.00737 57.3371 6.17749 57.3435 6.35081C57.35 6.52413 57.3564 6.68783 57.3628 6.84189C57.3692 6.98954 57.3821 7.12434 57.4013 7.24631C57.427 7.36828",
+      "i": 3,
+      "viewBox": "0 0 194 36",
+      "w": null
+    },
+    {
+      "cls": "u-icon u-icon--arrow-top-right",
+      "h": null,
+      "html": "<svg class=\"u-icon u-icon--arrow-top-right\" viewBox=\"0 0 9 9\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z\"></path></svg>",
+      "i": 4,
+      "viewBox": "0 0 9 9",
+      "w": null
+    },
+    {
+      "cls": "u-icon u-icon--arrow-top-right",
+      "h": null,
+      "html": "<svg class=\"u-icon u-icon--arrow-top-right\" viewBox=\"0 0 9 9\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 0H0V9H9V0ZM5.67586 3.52351V5.40395L6.15586 5.40396V3.1839L6.15609 2.7039H3.45609V3.1839H5.33665L2.39421 6.12633L2.73362 6.46574L5.67586 3.52351Z\"></path></svg>",
+      "i": 5,
+      "viewBox": "0 0 9 9",
+      "w": null
+    }
+  ],
+  "text": "GETTING\n\nREFRAMED\nEXAMPLES\nABOUT\nSAVEE\nINSTAGRAM",
+  "title": "Reframed — Digital inspiration Lab",
+  "url": "https://www.reframed.online/"
+}

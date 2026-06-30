@@ -1,0 +1,150 @@
+[
+  {
+    "bodyClass": "",
+    "brokenImgs": [],
+    "imgs": 0,
+    "links": [
+      {
+        "href": "http://127.0.0.1:8768/examples/",
+        "text": "Examples"
+      },
+      {
+        "href": "http://127.0.0.1:8768/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://savee.it/reframed/",
+        "text": "SAVEE"
+      },
+      {
+        "href": "https://www.instagram.com/reframed.online/",
+        "text": "Instagram"
+      }
+    ],
+    "name": "/",
+    "text": "GETTING\n\nREFRAMED\nEXAMPLES\nABOUT\nSAVEE\nINSTAGRAM",
+    "title": "Reframed — Digital inspiration Lab"
+  },
+  {
+    "bodyClass": "",
+    "brokenImgs": [],
+    "imgs": 5,
+    "links": [
+      {
+        "href": "http://127.0.0.1:8768/examples/",
+        "text": "Examples"
+      },
+      {
+        "href": "http://127.0.0.1:8768/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://savee.it/reframed/",
+        "text": "SAVEE"
+      },
+      {
+        "href": "https://www.instagram.com/reframed.online/",
+        "text": "Instagram"
+      },
+      {
+        "href": "http://127.0.0.1:8768/",
+        "text": "←"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/monoform/",
+        "text": "01. Monoform→ View project"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/new-normal/",
+        "text": "02. New Normal→ View project"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/nothing/",
+        "text": "03. Nothing→ View project"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/space-walker/",
+        "text": "04. Space walker→ View project"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/digidays/",
+        "text": "05. DigiDays→ View project"
+      }
+    ],
+    "name": "/examples/",
+    "text": "EXAMPLES\nABOUT\nSAVEE\nINSTAGRAM\n←\n01. MONOFORM\n→ VIEW PROJECT\n02. NEW NORMAL\n→ VIEW PROJECT\n03. NOTHING\n→ VIEW PROJECT\n04. SPACE WALKER\n→ VIEW PROJECT\n05. DIGIDAYS\n→ VIEW PROJECT\nDRAG",
+    "title": "Reframed — Digital inspiration Lab"
+  },
+  {
+    "bodyClass": "is-dark",
+    "brokenImgs": [],
+    "imgs": 0,
+    "links": [
+      {
+        "href": "http://127.0.0.1:8768/examples/",
+        "text": "Examples"
+      },
+      {
+        "href": "http://127.0.0.1:8768/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://savee.it/reframed/",
+        "text": "SAVEE"
+      },
+      {
+        "href": "https://www.instagram.com/reframed.online/",
+        "text": "Instagram"
+      },
+      {
+        "href": "http://127.0.0.1:8768/",
+        "text": "←"
+      }
+    ],
+    "name": "/about/",
+    "text": "EXAMPLES\nABOUT\nSAVEE\nINSTAGRAM\n←\n\nHELLO THERE. THIS IS REFRAMED—A DIGITAL INSPIRATION LAB\n\nWHAT IS ITS PURPOSE?\nWHATHEVER, NOT INTERESTED",
+    "title": "Reframed — Digital inspiration Lab"
+  },
+  {
+    "bodyClass": "is-dark",
+    "brokenImgs": [],
+    "imgs": 14,
+    "links": [
+      {
+        "href": "http://127.0.0.1:8768/examples/",
+        "text": "Examples"
+      },
+      {
+        "href": "http://127.0.0.1:8768/about/",
+        "text": "About"
+      },
+      {
+        "href": "https://savee.it/reframed/",
+        "text": "SAVEE"
+      },
+      {
+        "href": "https://www.instagram.com/reframed.online/",
+        "text": "Instagram"
+      },
+      {
+        "href": "http://127.0.0.1:8768/examples/",
+        "text": "←"
+      },
+      {
+        "href": "https://www.instagram.com/p/Cr0obMbMrYU/",
+        "text": "Instagram"
+      },
+      {
+        "href": "https://dribbble.com/shots/20889887-Monoform-Concept-pt-1",
+        "text": "Dribbble"
+      },
+      {
+        "href": "https://www.bornfight.studio/pantry/monoform",
+        "text": "BORNFIGHT STUDIO® Website"
+      }
+    ],
+    "name": "/examples/monoform/",
+    "text": "EXAMPLES\nABOUT\nSAVEE\nINSTAGRAM\n←\n\nINSPO\n\nMONOFORM\n\nREFERENCES THAT HELP BUILD VISION\n\nINSPIRATION\n069354AD\n\nPIXELATED TYPOGRAPHY\n\n484CFE52\n\nBACKGROUND + VIBRANT OBJECT COMBO\n\nE20A0391\n\nINTERESTING SPEC SHEET LAYOUT\n\nOBJECT LAYERING\n\nBA26F1FF\n\nSPLASH OF COLOR\n\nEAFC5634\n\nTYPO MOSAIC\n\n1D08B8BD\n\nTECHNICAL TYPOGRAPHY\n\nOUTPUT\n036CC26D\n\nCOLOR SPLASH / VIBRANT OBJECT\n\n4355D2E2\n\nLAYOUT AND LINE USAGE\n\n817F8A5F\n\nTYPO MOSAIC\n\n7A1C887F\n\nVIBRANT OBJECT\n\n52774D81\n\nCOLOR SPLASH / VIBRANT OBJECT\n\nE4DF51F8\n\nCOLOR SPLASH / VIBRANT OBJECT / PIXELATED TYPOGRAPHY / LAYERING\n\n134119EF\n\nLINE USAGE\n\nWANT TO FIND OUT MORE?\nINSTAGRAM\nDRIBBBLE\nBORNFIGHT STUDIO® WEBSITE\nENLARGE",
+    "title": "Reframed — Digital inspiration Lab"
+  }
+]

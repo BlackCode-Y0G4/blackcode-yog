@@ -1,0 +1,156 @@
+{
+  "generatedAt": "2026-06-30T04:11:22.070Z",
+  "shots": {
+    "prod_home": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\mirror-stable-home-1280x720.png",
+      "metrics": {
+        "close": null,
+        "firstCard": null,
+        "hero": {
+          "height": 250,
+          "text": "REFRAMED",
+          "width": 789,
+          "x": 246,
+          "y": 250
+        },
+        "navText": [
+          "Examples",
+          "About",
+          "SAVEE",
+          "Instagram"
+        ],
+        "title": "Reframed — Digital inspiration Lab",
+        "url": "http://127.0.0.1:8769/"
+      }
+    },
+    "local_home": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-stable-home-1280x720.png",
+      "metrics": {
+        "close": null,
+        "firstCard": null,
+        "hero": {
+          "height": 150,
+          "text": "REFRAMED",
+          "width": 788,
+          "x": 246,
+          "y": 303
+        },
+        "navText": [
+          "Examples",
+          "About",
+          "SAVEE",
+          "Instagram"
+        ],
+        "title": "Reframed — Digital inspiration Lab",
+        "url": "http://127.0.0.1:8768/"
+      }
+    },
+    "prod_examples": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\mirror-stable-examples-1280x720.png",
+      "metrics": {
+        "close": {
+          "height": 48,
+          "text": "",
+          "width": 46,
+          "x": 617,
+          "y": 61
+        },
+        "firstCard": {
+          "height": 238,
+          "text": "View project",
+          "width": 260,
+          "x": 112,
+          "y": 210
+        },
+        "hero": null,
+        "navText": [
+          "Examples",
+          "About",
+          "SAVEE",
+          "Instagram",
+          "",
+          "View project",
+          "View project",
+          "View project"
+        ],
+        "title": "Reframed — Examples",
+        "url": "http://127.0.0.1:8769/examples/"
+      }
+    },
+    "local_examples": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-stable-examples-1280x720.png",
+      "metrics": {
+        "close": {
+          "height": 17,
+          "text": "<-",
+          "width": 17,
+          "x": 632,
+          "y": 76
+        },
+        "firstCard": {
+          "height": 248,
+          "text": "01. Monoform-> View project",
+          "width": 260,
+          "x": 115,
+          "y": 236
+        },
+        "hero": null,
+        "navText": [
+          "Examples",
+          "About",
+          "SAVEE",
+          "Instagram",
+          "<-",
+          "01. Monoform-> View project",
+          "02. New Normal-> View project",
+          "03. Nothing-> View project"
+        ],
+        "title": "Reframed — Digital inspiration Lab",
+        "url": "http://127.0.0.1:8768/examples/"
+      }
+    },
+    "prod_monoform": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\mirror-stable-monoform-1280x720.png",
+      "metrics": {
+        "close": null,
+        "firstCard": null,
+        "hero": null,
+        "navText": [],
+        "title": "Reframed — Monoform",
+        "url": "http://127.0.0.1:8769/examples/monoform/"
+      }
+    },
+    "local_monoform": {
+      "out": "C:\\Users\\yoga\\Documents\\YOG\\reframed-recovery\\captures\\local-stable-monoform-1280x720.png",
+      "metrics": {
+        "close": {
+          "height": 17,
+          "text": "<-",
+          "width": 17,
+          "x": 624,
+          "y": 76
+        },
+        "firstCard": null,
+        "hero": {
+          "height": 104,
+          "text": "Monoform",
+          "width": 520,
+          "x": 372,
+          "y": 190
+        },
+        "navText": [
+          "Examples",
+          "About",
+          "SAVEE",
+          "Instagram",
+          "<-",
+          "Instagram",
+          "Dribbble",
+          "BORNFIGHT STUDIO® Website"
+        ],
+        "title": "Reframed — Digital inspiration Lab",
+        "url": "http://127.0.0.1:8768/examples/monoform/"
+      }
+    }
+  }
+}
